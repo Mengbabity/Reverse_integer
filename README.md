@@ -1,4 +1,6 @@
 # Reverse_integer
+Given a 32-bit signed integer, reverse digits of an integer.
+
 #C++
 int and long are 4byte(32bit),short is 2byte(16bit).
 the maximum of int is INT_MAX,the minmum is INT_MIN.
